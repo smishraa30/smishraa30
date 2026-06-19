@@ -1,7 +1,12 @@
 <div align="center">
 
-# Hi there, I'm Shivam! 👋
-### Building Robust Systems & Intelligent Applications
+![Shivam's Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Shivam!&fontSize=70&desc=Aspiring%20DevOps%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Systems%20Enthusiast&descSize=20&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=55)
+
+**Crafting Efficient Systems & Automated Workflows**
+
+I am an aspiring DevOps Engineer and Computer Science student based in Bangalore. I am passionate about cloud infrastructure, CI/CD pipelines, and bridging the gap between development and operations.
+
+<br>
 
 <a href="mailto:smishraa30@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -14,16 +19,20 @@
 
 ---
 
-I am a 2nd-year Computer Science Engineering student based in Bangalore. I enjoy understanding how tools and hardware work under the hood, focusing primarily on **Machine Learning Systems**, **Computer Architecture**, and **Low-Level Development**.
+### ⚡ What I'm Up To
+
+*   **Building:** A custom Log-Structured Merge-Tree (LSM-Tree) storage engine in C++.
+*   **Exploring:** Cloud infrastructure, containerization, and hardware fault simulations.
+*   **Learning:** Prioritizing Discrete Mathematics, core CS algorithms, and system design.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LANGUAGES-C%2B%2B%20%7C%20PYTHON%20%7C%20JAVA%20%7C%20C%20%7C%20ASSEMBLY-00599C?style=for-the-badge&labelColor=555555" alt="Languages"/>
+  <img src="https://img.shields.io/badge/LANGUAGES-C%2B%2B%20%7C%20PYTHON%20%7C%20JAVA%20%7C%20C-00599C?style=for-the-badge&labelColor=555555" alt="Languages"/>
   <img src="https://img.shields.io/badge/FRAMEWORKS-REACT%20%7C%20FLASK%20%7C%20FASTAPI%20%7C%20STREAMLIT-20232A?style=for-the-badge&labelColor=555555" alt="Frameworks"/>
-  <img src="https://img.shields.io/badge/TOOLS-NUMPY%20%7C%20YOLOV8%20%7C%20GIT%20%7C%20DOCKER-ED8B00?style=for-the-badge&labelColor=555555" alt="Tools"/>
+  <img src="https://img.shields.io/badge/TOOLS-LINUX%20%7C%20DOCKER%20%7C%20KUBERNETES%20%7C%20AWS%20%7C%20GIT-ED8B00?style=for-the-badge&labelColor=555555" alt="Tools"/>
 </p>
 
 ---
