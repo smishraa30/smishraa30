@@ -16,12 +16,6 @@
 
 I am a 2nd-year Computer Science Engineering student based in Bangalore. I enjoy understanding how tools and hardware work under the hood, focusing primarily on **Machine Learning Systems**, **Computer Architecture**, and **Low-Level Development**.
 
-### ⚡ What I'm Up To
-
-*   **Studying:** Prioritizing Discrete Mathematics and core CS algorithms for upcoming technical exams.
-*   **Building:** A custom Log-Structured Merge-Tree (LSM-Tree) storage engine in C++.
-*   **Exploring:** Hardware fault simulations, modeling memory issues like bit flips with NumPy.
-
 ---
 
 ### 🛠️ Tech Stack & Tools
