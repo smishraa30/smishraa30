@@ -3,28 +3,26 @@
 # Hi there, I'm Shivam! 👋
 ### Building Robust Systems & Intelligent Applications
 
-I am a Full Stack Developer & Systems Enthusiast passionate about **Artificial Intelligence**, **System Architecture**, and **Computer Vision**.
-
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/M_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:smishraa30@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/shivam-mishraa-/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
 
-<br>
+---
 
-I am a 2nd-year Computer Science Engineering undergraduate student based in Bangalore. 
+I am a 2nd-year Computer Science Engineering student based in Bangalore. I enjoy understanding how tools and hardware work under the hood, focusing primarily on **Machine Learning Systems**, **Computer Architecture**, and **Low-Level Development**.
 
-My primary focus is **Machine Learning Systems**, **Computer Architecture**, and **Low-Level Development**. I enjoy understanding how tools and hardware work by building them from scratch.
+### ⚡ What I'm Up To
 
-### 🔭 Current Focus
+*   **Studying:** Prioritizing Discrete Mathematics and core CS algorithms for upcoming technical exams.
+*   **Building:** A custom Log-Structured Merge-Tree (LSM-Tree) storage engine in C++.
+*   **Exploring:** Hardware fault simulations, modeling memory issues like bit flips with NumPy.
 
-* **Building:** A custom Log-Structured Merge-Tree (LSM-Tree) storage engine in C++ featuring MemTables and Bloom Filters.
-* **Exploring:** Hardware fault simulations, specifically modeling issues like bit flips with NumPy.
-* **Learning:** Deepening my knowledge of Discrete Mathematics and algorithm optimization.
-* **Collaborating:** Developing full-stack AI solutions, like real-time smart parking management systems using YOLOv8.
-
-<br>
+---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -34,15 +32,15 @@ My primary focus is **Machine Learning Systems**, **Computer Architecture**, and
   <img src="https://img.shields.io/badge/TOOLS-NUMPY%20%7C%20YOLOV8%20%7C%20GIT%20%7C%20DOCKER-ED8B00?style=for-the-badge&labelColor=555555" alt="Tools"/>
 </p>
 
-<br>
+---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smishraa30&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Shivam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smishraa30&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smishraa30&show_icons=true&theme=radical" alt="Shivam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smishraa30&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=smishraa30&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=smishraa30&theme=radical" alt="GitHub Streak" />
 </div>
