@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smishraa30&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smishraa30&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=smishraa30&theme=radical)
+### 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### ✍️ Latest Blog Posts
 <!--
 **smishraa30/smishraa30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
