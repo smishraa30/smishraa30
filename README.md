@@ -23,7 +23,7 @@ I am an aspiring DevOps Engineer and Computer Science student based in Bangalore
 
 *   **Building:** Automated CI/CD pipelines, scripting deployment workflows, and containerizing full-stack applications like my AI-powered system, Swift Slot.
 *   **Exploring:** Infrastructure as Code (IaC), microservices architecture, and cloud-native monitoring tools.
-*   **Learning:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, and Discrete Mathematics.
+*   **Learning:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS), & Operating Systems.
 
 ---
 
