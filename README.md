@@ -13,9 +13,13 @@
 I'm passionate about architecting resilient infrastructure and creating elegant solutions to complex system-level problems. My journey in tech has been driven by a curiosity for how things operate under the hood and a desire to build robust, scalable foundations.
 
 🔭 I'm currently working on: Building a custom Log-Structured Merge-Tree (LSM-Tree) storage engine in C++ with Write-Ahead Logging and Bloom Filters.
+
 🌱 I'm currently learning: Cloud-native ecosystems, container orchestration, and diving deep into Discrete Mathematics for technical optimization.
+
 👯 I'm looking to collaborate on: Open-source DevOps tooling, service mesh architectures, and backend infrastructure projects.
+
 💬 Ask me about: Low-level system operations, backend API design (FastAPI/Flask), or simulating hardware memory faults.
+
 📫 How to reach me: smishraa30@gmail.com 
 
 ## 🛠️ Tech Stack
