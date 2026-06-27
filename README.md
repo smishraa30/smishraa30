@@ -1,7 +1,7 @@
 # <div align="center">👋 Hello World, I'm Shivam Misra</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F97F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F97F7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -40,12 +40,6 @@ I'm passionate about architecting resilient infrastructure and creating elegant 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smishraa30&theme=tokyonight" alt="GitHub Streak" height="165" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smishraa30&theme=nord&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -56,7 +50,7 @@ I'm passionate about architecting resilient infrastructure and creating elegant 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-mishraa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-mishraa-/)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL) -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smishraa30@gmail.com)
 
