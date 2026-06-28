@@ -10,15 +10,16 @@
 
 ## 🚀 About Me
 
-I'm passionate about architecting resilient infrastructure and creating elegant solutions to complex system-level problems. My journey in tech has been driven by a curiosity for how things operate under the hood and a desire to build robust, scalable foundations.
+💫 I'm passionate about distributed systems, cloud-native technologies, and building reliable software. I enjoy understanding how systems work under the hood and turning that knowledge into scalable, maintainable solutions.
 
-🔭 I'm currently working on: Building a custom Log-Structured Merge-Tree (LSM-Tree) storage engine in C++ with Write-Ahead Logging and Bloom Filters.
+🔭 I'm currently working on: Building a custom Log-Structured Merge-Tree (LSM-Tree) storage engine in C++ with Write-Ahead Logging (WAL), Bloom Filters, and SSTables.
 
-🌱 I'm currently learning: Cloud-native ecosystems, container orchestration, and diving deep into Discrete Mathematics for technical optimization.
+🌱 I'm currently learning: Kubernetes, Docker, Linux internals, CI/CD, Infrastructure as Code (Terraform), and cloud-native architecture.
 
-👯 I'm looking to collaborate on: Open-source DevOps tooling, service mesh architectures, and backend infrastructure projects.
+🤝 I'm looking to collaborate on: CNCF projects, Kubernetes tooling, DevOps platforms, backend infrastructure, and distributed systems.
 
-💬 Ask me about: Low-level system operations, backend API design (FastAPI/Flask), or simulating hardware memory faults.
+💬 Ask me about: C++, FastAPI, Docker, Git, Linux, backend development, open source, or getting started with cloud-native technologies.
+
 
 📫 How to reach me: smishraa30@gmail.com 
 
@@ -27,9 +28,9 @@ I'm passionate about architecting resilient infrastructure and creating elegant 
 <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -55,8 +56,9 @@ I'm passionate about architecting resilient infrastructure and creating elegant 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-mishraa-/)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL) -->
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/MishraS09)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smishraa30@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/smisra30/)
 
 </div>
 
